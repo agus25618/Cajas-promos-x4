@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(156, 156, 156);
+    padding:60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.contenedor{
+margin: 10px;
+height: 10px;
+width: 120%;
+display: flex;    
+
+}
+h1{
+    font-size:20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.Caja2 h1{
+    color: black;
+}
+.Caja2 p{
+    color: black;
+    font-size: 20px;
+}
+.logo{
+    height: 50px;
+    width: 20%;
+    margin:auto;
+    display:block;
+}
+.cash{
+    color: rgb(19, 235, 19);
+    height: 50px;
+    font-size:15px;
+}
+.cin{
+    color: rgb(20, 230, 20);
+    font-size:40px;
+  
+}
+.cajas{
+    height:450px;
+    width:20%;
+    background-color: rgb(85, 82, 82);
+    margin-top:30px;
+    margin:3px;
+    padding: 5px;
+    display: inline-block;
+    border-radius:2px;
+    font-size: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Caja2{
+    height:500px;
+    width:20%;
+    background-color: rgb(247, 240, 240);
+    display:inline-block;
+    margin: 3px;
+    margin-top:3px;
+    padding:5px;
+    border-radius:2px;
+    box-shadow:5px 5px 5px black;
+    font-size:5px;
+    color: black;
+    
+    
+
+}
+i{
+color: greenyellow;
+font-size: 30px;
+margin-top:30px;
+margin-left: 125px;
+
+}
+
+.Boton1{
+    padding:30%;
+    margin:auto;
+  
+   
+}
+.boton{
+    font-size:20px;
+    width:115%;
+    height:25px;
+    border-radius:5px;
+    list-style: none;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin:4px;
+    display:block;
+    background-color:rgb(102, 255, 32);
+
+}
